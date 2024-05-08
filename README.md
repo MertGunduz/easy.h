@@ -1,1 +1,1 @@
-# easyC
+# easy.h
